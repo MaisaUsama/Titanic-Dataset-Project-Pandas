@@ -1,6 +1,5 @@
 # Titanic-Dataset-Project-Pandas
 
-Titanic-Dataset
  Data Analysis of Titanic Dataset
  Using Pandas(Python)
  1-load Data.
